@@ -18,8 +18,8 @@ minify:
 
 languages:
     en:
-        languageName: ":us:"
-        languageAltTitle: English
+        languageName: ":kr:"
+        languageAltTitle: Korean
         weight: 1
         menu:
             main:
@@ -80,7 +80,9 @@ params:
     homeInfoParams:
         Title: "Hi there \U0001F44B"
         Content: >
-            오늘은 또 어떤 일들이 있었나요... 🍁
+            오늘은 또 어떤 일들이 있었나요... 🍁<br>
+            <small>The best thing about the future is that it comes one day at a time.
+            — <cite>(Abraham Lincoln)</cite></small>
     socialIcons:
         - name: instagram
           url: "https://www.instagram.com/eddy.log/"
