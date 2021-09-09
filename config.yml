@@ -23,6 +23,9 @@ languages:
         weight: 1
         menu:
             main:
+                - name: About
+                  url: about
+                  weight: 1
                 - name: Archive
                   url: archives
                   weight: 5
@@ -45,7 +48,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "The best thing about the future is that it comes one day at a time. (Abraham Lincoln)"
-    author: Eddy
+    author: Me
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -59,7 +62,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    # images: ["papermod-cover.png"]
 
     profileMode:
         enabled: false
@@ -77,11 +80,10 @@ params:
     homeInfoParams:
         Title: "Hi there \U0001F44B"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            하루의 일상과 개발하는 일들을 기록하고 있습니다..^^
     socialIcons:
+        - name: instagram
+          url: "https://www.instagram.com/eddy.log/"
         - name: github
           url: "https://github.com/iyah35"
         #- name: KoFi
