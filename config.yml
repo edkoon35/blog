@@ -9,7 +9,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-disqusShortname: "hugo-tranquilpeak-theme"
 googleAnalytics: UA-16044483-1
 
 minify:
