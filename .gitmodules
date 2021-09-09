@@ -3,5 +3,5 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "public"]
 	path = public
-	url = http://github.com/edkoon35/edkoon35.github.io.git
+	url = https://github.com/edkoon35/edkoon35.github.io.git
 	branch = master
