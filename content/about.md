@@ -7,7 +7,7 @@ layout: "profile"
 ---
 ![daughters](/about.jpg)
 ---
-딸 둘 아빠인 자바 서버 개발자 입니다.   
+딸 둘 아빠 자바 서버 개발자 입니다.   
 <small>(Since 2008 ~ )</small>
 
 김의진 / edkoon35@gmail.com   

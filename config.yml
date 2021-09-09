@@ -80,7 +80,7 @@ params:
     homeInfoParams:
         Title: "Hi there \U0001F44B"
         Content: >
-            하루의 일상과 개발하는 일들을 기록하고 있습니다..^^
+            오늘은 또 어떤 일들이 있었나요... 🍁
     socialIcons:
         - name: instagram
           url: "https://www.instagram.com/eddy.log/"
