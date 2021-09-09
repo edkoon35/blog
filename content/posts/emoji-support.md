@@ -48,3 +48,5 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
 </style>
 
 {{< /css.inline >}}
+
+{{ partial "disqus.html" . }}
