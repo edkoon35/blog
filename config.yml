@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 disqusShortname: edkoon35
-googleAnalytics: UA-16044483-1
+googleAnalytics: G-W6QX5ENEEZ
 
 minify:
     disableXML: true
