@@ -4,7 +4,6 @@ title: SpringBoot에서 외부 yml 파일 맵핑하여 사용하기
 description: Springboot의 기본 application.yml 이외에 다른 yml파일을 생성하고 객체에 맵핑하여 사용해보자.
 categories: ["springboot"]
 tags: ["springboot", "yml"]
-comments: true
 ---
 **1. Bean 등록**
 ---
